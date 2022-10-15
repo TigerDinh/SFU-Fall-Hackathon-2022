@@ -1,22 +1,13 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
 import './App.css';
+import React from 'react';
 import Timer from "./Timer";
 import Settings from "./Settings";
 import {useState} from "react";
 import SettingsContext from "./SettingsContext";
+import Typewriter from 'typewriter-effect/dist/core';
 
+import TodoList from './todoList';
 function App() {
 
   const [showSettings, setShowSettings] = useState(false);
@@ -24,6 +15,8 @@ function App() {
   const [breakMinutes, setBreakMinutes] = useState(15);
 
   return (
+    <div>
+    
     <main>
       <SettingsContext.Provider value={{
         showSettings,
@@ -35,7 +28,11 @@ function App() {
       }}>
         {showSettings ? <Settings /> : <Timer />}
       </SettingsContext.Provider>
-    </main>
+      <div className='todo-app'>
+
+      <TodoList />
+    </div>
+    </main></div>
   );
 }
 
