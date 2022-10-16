@@ -15,7 +15,8 @@ function App() {
   const [breakMinutes, setBreakMinutes] = useState(15);
 
   return (
-    <div>
+
+    <div className='rowCC'>
     
     <main>
       <SettingsContext.Provider value={{
@@ -28,11 +29,15 @@ function App() {
       }}>
         {showSettings ? <Settings /> : <Timer />}
       </SettingsContext.Provider>
-      <div className='todo-app'>
+    </main>
 
+    <div className='todo-app'>
       <TodoList />
     </div>
-    </main></div>
+    
+    </div>
+    
+
   );
 }
 

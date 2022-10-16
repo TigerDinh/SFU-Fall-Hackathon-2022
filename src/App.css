@@ -9,7 +9,7 @@ body{
   color: #eee;
 }
 main{
-  padding-top: 50px;
+  padding-top: 130px;
   max-width: 340px;
   margin: 0 auto;
   text-align: center;
@@ -59,6 +59,12 @@ body {
     rgba(100, 115, 255, 1) 100%
   );
 }
+
+.rowCC{
+  display:flex; 
+  flex-direction:row;
+}
+
 .todo-app {
   align-items:left;
   flex-direction: column;
@@ -75,7 +81,9 @@ body {
   border-radius: 10px;
   padding-bottom: 32px;
   grid-template-columns: 120px 120px 120px;
+  
 }
+
 
 h1 {
   margin: 32px 0;
@@ -95,7 +103,8 @@ h1 {
 .todo-input {
   padding: 14px 32px 14px 16px;
   border-radius: 4px 0 0 4px;
-  border: 2px solid #5d0cff;
+
+  border: 2px solid #5219c4;
   outline: none;
   width: 320px;
   background: transparent;
