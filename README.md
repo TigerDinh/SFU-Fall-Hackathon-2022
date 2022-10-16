@@ -24,5 +24,7 @@ Then select the time
 ![image](https://user-images.githubusercontent.com/29269390/196014842-5ee118f8-5a8d-4900-aece-e42039225c8a.png)
 Then hit start
 ![345](https://user-images.githubusercontent.com/29269390/196014857-69e7a6c1-0415-49e3-b9f0-f7266fa8358b.png)
+![image](https://user-images.githubusercontent.com/29269390/196015042-14c44f80-f157-42c6-9798-10c5c3b69d3f.png)
 
 Now you can keep track of all the tasks and there is no last minute delays! Work Smarter
+Not sponsored by SFU!
