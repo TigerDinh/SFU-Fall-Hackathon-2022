@@ -3,7 +3,7 @@ October 15
 
 Members: Tiger Dinh, Wen Luo, Mona Abusharkh, Minal Chhatbar
 
-Instruction to run the application:\
+Instruction to run the application:
 * npm install
 * yarn install
 * npm install react-slider
