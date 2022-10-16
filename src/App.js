@@ -1,16 +1,4 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
+import React from "react";
 import './App.css';
 import Timer from "./Timer";
 import Settings from "./Settings";
