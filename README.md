@@ -3,7 +3,8 @@ October 15
 
 Members: Tiger Dinh, Wen Luo, Mona Abusharkh, Minal Chhatbar
 
-We used react - so it works on all OS
+We used react - so it works on all OS\
+Deomo link: https://golden-brioche-8c0c2a.netlify.app/
 
 Instruction to run the application:
 * npm install
