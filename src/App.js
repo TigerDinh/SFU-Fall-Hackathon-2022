@@ -1,11 +1,10 @@
 import React from "react";
 import './App.css';
-import React from 'react';
 import Timer from "./Timer";
 import Settings from "./Settings";
 import {useState} from "react";
 import SettingsContext from "./SettingsContext";
-import Typewriter from 'typewriter-effect/dist/core';
+//import Typewriter from 'typewriter-effect/dist/core';
 
 import TodoList from './todoList';
 function App() {
