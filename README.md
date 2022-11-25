@@ -1,7 +1,7 @@
 SFU Fall Hackathon 2022
 October 15
 
-Members: Tiger Dinh, Wen Luo, Mona Abusharkh, Minal Chhatbar
+Members: Tiger Dinh, Thomas Lui, Mona Abusharkh, Minal Chhatbar
 
 We used react - so it works on all OS\
 Demo link: https://golden-brioche-8c0c2a.netlify.app/
